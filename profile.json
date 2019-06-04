@@ -8,11 +8,11 @@
 		"website": "https://reactdude.com/",
 		"twitter": "https://twitter.com/prakis",
 		"facebook": "https://www.facebook.com/Stringify.me",
-		"dribbble": "https://www.dribbble.com",
 		"github": "http://github.com/prakis",
 		"summary": "Theoretical physicist, known for his work in quantum mechanics, quantum electrodynamics and superfluidity of supercooled liquid helium."
 	},
 	"theme": {
-		"url": "https://github.com/prakis/stringify.me-theme-card2"
+		"url": "https://github.com/prakis/stringify.me-theme",
+		"background" :"#f98008"
 	}
 }
